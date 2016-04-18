@@ -1,0 +1,105 @@
+* {
+	font-family:'Noto Sans CJK SC','Source Han Sans CN','Source Han Sans TC','Source Han Sans','Nimbus Sans L','Liberation Sans','Hiragino Sans GB','Nota Han Sans','Microsoft YaHei','Droid Sans','Droid Sans Fallback','Wenquanyi Micro Hei ','WenQuanYi Zen Hei','ST Heiti',SimHei,'WenQuanYi Zen Hei Sharp',sans-serif;
+}
+
+body {
+	font:14px 'Source Han Sans CN',"Noto Sans CJK SC",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;
+}
+
+a {
+	color:#2980B9;
+}
+
+/* 
+ * nav
+ */
+.wy-side-nav-search {
+    background-color: #ffd200;
+}
+
+.wy-side-nav-search input[type=text] {
+    border-color: #ffd200;
+}
+
+.wy-menu-vertical li.current{
+    background: #f8f8f8;
+}
+
+.wy-menu-vertical li.current a{
+    border:none;
+    padding: 0.4045em 3.427em !important;    
+}
+
+.wy-menu-vertical li.current a.current{
+    border:none;
+    padding: 0.4045em 2.427em !important;    
+}
+
+.wy-nav-side {
+    background: #f8f8f8 !important;
+}
+
+.wy-nav-top{
+    background: #ffd200;
+}
+
+.wy-nav-top i {  
+    line-height: 48px;
+}
+
+.wy-nav-top-desktop{
+    background:#fcfcfc;
+    padding: 0 3.236em;
+}
+
+@media screen and (max-width: 768px){
+
+    .wy-nav-top-desktop{
+        display:none;
+    }
+}
+
+.wy-nav-top-desktop ul{
+    list-style: none;
+    padding: 0.618em 0;
+    border-bottom: 1px solid #eee;
+    text-align: right;
+}
+
+.wy-nav-top-desktop ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 0 0 0.618em;
+}
+
+.wy-nav-top-desktop ul li a {
+
+}
+
+
+.rst-versions{
+    background: #ffd200;
+    border-top: solid 10px #ffd200;
+}
+
+.rst-versions .rst-current-version {
+    background-color: #ffd200;
+}
+
+.wy-menu-vertical a:hover{
+    background-color: rgba(255, 210, 0, 0.8);
+    color: #fff;
+    font-weight: bold;   
+}
+
+/* 
+ * content
+ */
+.wy-nav-content {
+     max-width: 100%; 
+}
+
+
+.wy-nav-content .rst-content{
+    max-width: 768px;
+}
