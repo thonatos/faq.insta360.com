@@ -2,11 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     
+        
     <url>
      <loc>None/</loc>
      <lastmod>2016-04-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
     
@@ -24,7 +26,7 @@
     </url>
         
     <url>
-     <loc>None/docs/Instructions_on Insta360_4K_Mobile_App_Insta360_Explorer_and_Insta360_Player/</loc>
+     <loc>None/docs/Instructions_on_Insta360_4K_Mobile_App_Insta360_Explorer_and_Insta360_Player/</loc>
      <lastmod>2016-04-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
