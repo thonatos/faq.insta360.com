@@ -169,6 +169,11 @@
             "location": "/documents/Live_stream_introduction/#6related-resources", 
             "text": "LiveKit 1.2.0      Open Broadcaster Software", 
             "title": "6.Related Resources"
+        }, 
+        {
+            "location": "/documents/Youtube_360_Live_Streaming_Tutorial/", 
+            "text": "Step01\n  Login with your Google account, and click UPLOAD.\n\n\n\n\nStep02\n Click GET STARTED in the Live Streaming box.\n\n\n\n\nStep03\n Select EVENT -\n NEW LIVE EVENT. You need to enable the function by simply clicking the ENABLE tab if it is the first time for you to broadcast.\n\n\n \n\n\nStep04\n Select CUSTOM.\n\n\n\n\nStep05\n Select THIS LIVE STREAM IS 360 in the ADVANCED SETTINGS tab. Then Click CREATE EVENT.\n\n\n\n\nStep06\n In the BASIC INGESTION, select the needed bitrate and resolution.\n\n\n\n\nStep07\n Open your OBS, go to SETTINGS -\n BROADCAST SETTINGS\n\n\n  \n\n\nStep08\n \n\n\n \n\n\nStep09\n\n\n \n\n\nStep10\n\n\n  \n\n\nStep11\n Click VIEW ON WATCH PAGE to enjoy your streaming.", 
+            "title": "Youtube 360 Live Streaming Tutorial"
         }
     ]
 }
