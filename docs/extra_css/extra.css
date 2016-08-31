@@ -6,8 +6,13 @@ body {
 	font:14px 'Source Han Sans CN',"Noto Sans CJK SC",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;
 }
 
+h3, h4, h5, h6 {
+    color: #2d2d2d;
+    font-weight: 300
+}
+
 a {
-	color:#2980B9;
+	color: #2980b9;
 }
 
 /* 

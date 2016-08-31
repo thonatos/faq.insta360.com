@@ -5,7 +5,7 @@
 5. Proof of purchase and a complete product serial number are required to receive any services guaranteed as part of the limited warranty.  
 6. The maximum liability Insta360 is equal to, and no higher than, the product's purchased price.  
 
-##Appendix:
+##Appendix
 
 1. Insta360 may reject or return products without accessories or an assigned RMA number.  
 2. If proof of purchase can't be provided, the purchase date shall be calculated three months from the product's manufacturing date and the product shall have the same warranty period.  
